@@ -1,0 +1,3 @@
+All new versions of tf and py work.
+test.py - detect on input image
+test_widerface.py - detect on benchmark dataset
