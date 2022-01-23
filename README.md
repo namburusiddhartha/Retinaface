@@ -9,4 +9,8 @@ This repo implements retinaface detector forked from - https://github.com/petery
 
 ### Results
 On largest selfie
+![image](https://user-images.githubusercontent.com/68541043/150672441-959d06da-b4a9-4c50-b7d5-e6d85964b08d.png)
+
+On one image from lfw test set
+![image](https://user-images.githubusercontent.com/68541043/150672477-70c72d0e-a7cb-4625-964e-bf1d1018b016.png)
 
