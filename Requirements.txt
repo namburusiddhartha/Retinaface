@@ -1,0 +1,5 @@
+Needed - pytorch - 1.2.0, torchvision, 0.4.0 cu9.2
+
+detect.py - for detecting on test image
+test_widerface.py - for benchmark widerface dataset
+test_fddb.py - for benchmark fddbb dataset
